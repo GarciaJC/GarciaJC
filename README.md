@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GarciaJC
+- 👋 Hi, I’m Juan Cristobal G.
 - 👀 I’m interested in science, scientific software development, web technologies.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on tools to help scientist perform their tasks.
